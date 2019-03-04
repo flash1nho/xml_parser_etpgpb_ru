@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:purchaseNotice xsi:schemaLocation="http://zakupki.gov.ru/223/integration/schema/TFF-3.1/purchase.xsd" xmlns:ns5="http://zakupki.gov.ru/223fz/complaint/1" xmlns="http://zakupki.gov.ru/223fz/types/1" xmlns:ns6="http://zakupki.gov.ru/223fz/orderClauseList/1" xmlns:ns7="http://zakupki.gov.ru/223fz/purchasePlan/1" xmlns:ns8="http://zakupki.gov.ru/223fz/webRequest/1" xmlns:ns2="http://zakupki.gov.ru/223fz/purchase/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://zakupki.gov.ru/223fz/reference/1" xmlns:ns4="http://zakupki.gov.ru/223fz/dishonestSupplier/1">
+    <header>
+        <guid>af1cec80-51da-44fe-b7fe-2b03e8d7fe43</guid>
+        <createDateTime>2013-03-05T16:30:49</createDateTime>
+    </header>
+    <ns2:body>
+        <ns2:item>
+            <guid>759e7ac3-73cb-4b2d-bb11-7a6119e00a66</guid>
+            <ns2:purchaseNoticeData>
+                <ns2:guid>759e7ac3-73cb-4b2d-bb11-7a6119e00a66</ns2:guid>
+                <ns2:createDateTime>2013-03-05T16:02:06</ns2:createDateTime>
+                <ns2:registrationNumber>31300177655</ns2:registrationNumber>
+                <ns2:name>Поставка дорожных знаков для нужд ГУП РА "Кошехабльский ДРСУ"</ns2:name>
+                <ns2:customer>
+                    <mainInfo>
+                        <fullName>Государственное унитарное предприятие Республики Адыгея "Кошехабльский дорожный ремонтно-строительный участок"</fullName>
+                        <shortName>ГУП РА " Кошехабльский ДРСУ"</shortName>
+                        <inn>0103005265</inn>
+                        <kpp>010101001</kpp>
+                        <ogrn>1020100510033</ogrn>
+                        <legalAddress>385400, Адыгея, Дружбы Народов, дом 74</legalAddress>
+                        <postalAddress>385400, Адыгея, Дружбы Народов, дом 74 </postalAddress>
+                        <phone>7-87770-91106</phone>
+                        <email>drsu-08@mail.ru</email>
+                        <okato>79215820001</okato>
+                    </mainInfo>
+                </ns2:customer>
+                <ns2:purchaseMethodCode>18010</ns2:purchaseMethodCode>
+                <ns2:purchaseCodeName>Запрос цен</ns2:purchaseCodeName>
+                <ns2:placer>
+                    <mainInfo>
+                        <fullName>Государственное унитарное предприятие Республики Адыгея "Кошехабльский дорожный ремонтно-строительный участок"</fullName>
+                        <shortName>ГУП РА " Кошехабльский ДРСУ"</shortName>
+                        <inn>0103005265</inn>
+                        <kpp>010101001</kpp>
+                        <ogrn>1020100510033</ogrn>
+                        <legalAddress>385400, Адыгея, Дружбы Народов, дом 74</legalAddress>
+                        <postalAddress>385400, Адыгея, Дружбы Народов, дом 74 </postalAddress>
+                        <phone>7-87770-91106</phone>
+                        <email>drsu-08@mail.ru</email>
+                        <okato>79215820001</okato>
+                    </mainInfo>
+                </ns2:placer>
+                <ns2:contact>
+                    <firstName>Валерий </firstName>
+                    <middleName>Викторович</middleName>
+                    <lastName>Овчаров</lastName>
+                    <phone>+7 (87770) 91106</phone>
+                    <fax>+7 (87770) 91106</fax>
+                    <email>drsu-08@mail.ru</email>
+                    <organization>
+                        <mainInfo>
+                            <fullName>Государственное унитарное предприятие Республики Адыгея "Кошехабльский дорожный ремонтно-строительный участок"</fullName>
+                            <shortName>ГУП РА " Кошехабльский ДРСУ"</shortName>
+                            <inn>0103005265</inn>
+                            <kpp>010101001</kpp>
+                            <ogrn>1020100510033</ogrn>
+                            <legalAddress>385400, Адыгея, Дружбы Народов, дом 74</legalAddress>
+                            <postalAddress>385400, Адыгея, Дружбы Народов, дом 74 </postalAddress>
+                            <phone>7-87770-91106</phone>
+                            <email>drsu-08@mail.ru</email>
+                            <okato>79215820001</okato>
+                        </mainInfo>
+                    </organization>
+                </ns2:contact>
+                <ns2:publicationDateTime>2013-03-05T16:30:49</ns2:publicationDateTime>
+                <ns2:documentationDelivery>
+                    <deliveryStartDateTime>2013-03-06</deliveryStartDateTime>
+                    <deliveryEndDateTime>2013-03-12</deliveryEndDateTime>
+                    <place>385400, Россия, Республика Адыгея, Кошехабльский район, аул Кошехабль, ул. Дружбы Народов, 74</place>
+                    <procedure>Котировочная заявка подаётся в запечатанном конверте по форме и в порядке, установленным документацией о проведении запроса цен.</procedure>
+                </ns2:documentationDelivery>
+                <ns2:status>P</ns2:status>
+                <ns2:version>1</ns2:version>
+                <ns2:attachments>
+                    <document>
+                        <guid>d119a996-f95b-4f7f-95b0-74df6dabdfd1</guid>
+                        <createDateTime>2013-03-05T16:29:08</createDateTime>
+                        <fileName>Проект договора на поставку дорожных знаков.docx</fileName>
+                        <description>Проект договора на поставку дорожных знаков</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=732754</url>
+                    </document>
+                    <document>
+                        <guid>661032e2-7d52-461e-a893-9db1a358d412</guid>
+                        <createDateTime>2013-03-05T16:28:46</createDateTime>
+                        <fileName>Документация о проведении запроса цен.docx</fileName>
+                        <description>Документация о проведении запроса цен</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=732743</url>
+                    </document>
+                    <document>
+                        <guid>e7a919e1-5d26-461c-ade3-f8fc510c7196</guid>
+                        <createDateTime>2013-03-05T16:28:30</createDateTime>
+                        <fileName>Извещение о проведении запроса цен.docx</fileName>
+                        <description>Извещение о проведении запроса цен</description>
+                        <url>http://zakupki.gov.ru/223/purchase/public/download/download.html?id=732730</url>
+                    </document>
+                </ns2:attachments>
+                <ns2:modificationDate>2013-03-05T16:30:49</ns2:modificationDate>
+                <ns2:saveUserId>8109</ns2:saveUserId>
+                <ns2:nonelectronicPlaceInfo>
+                    <summarizingPlace>385400, Россия, Республика Адыгея, Кошехабльский район, аул Кошехабль, ул. Дружбы Народов, 74</summarizingPlace>
+                    <summarizingDateTime>2013-03-13T09:10:00</summarizingDateTime>
+                </ns2:nonelectronicPlaceInfo>
+                <ns2:examinationPlace>385400, Россия, Республика Адыгея, Кошехабльский район, аул Кошехабль, ул. Дружбы Народов, 74</ns2:examinationPlace>
+                <ns2:examinationDateTime>2013-03-13T09:00:00</ns2:examinationDateTime>
+                <ns2:submissionCloseDateTime>2013-03-12T08:00:00</ns2:submissionCloseDateTime>
+                <ns2:publicationPlannedDate>2013-03-05</ns2:publicationPlannedDate>
+                <ns2:lots>
+                    <lot>
+                        <guid>5d1ccc91-1500-479f-b2f3-0248d09a8e64</guid>
+                        <ordinalNumber>1</ordinalNumber>
+                        <subject>Поставка дорожных знаков для нужд ГУП РА "Кошехабльский ДРСУ"  </subject>
+                        <currency>
+                            <code>RUB</code>
+                            <digitalCode>810</digitalCode>
+                            <name>Российский рубль</name>
+                        </currency>
+                        <initialSum>227674.00</initialSum>
+                        <deliveryPlace>385400, Россия, Республика Адыгея, Кошехабльский район, аул Кошехабль, ул. Дружбы Народов, 74</deliveryPlace>
+                        <lotItems>
+                            <lotItem>
+                                <guid>5d1ccc91-1500-479f-b2f3-0248d09a8e64</guid>
+                                <ordinalNumber>1</ordinalNumber>
+                                <okdp>
+                                    <code>3599410</code>
+                                    <name>Знаки дорожные</name>
+                                </okdp>
+                                <okved>
+                                    <code>28.75.27</code>
+                                    <name>Производство прочих изделий из недрагоценных металлов, не включенных в другие группировки</name>
+                                </okved>
+                                <okei>
+                                    <code>796</code>
+                                    <name>Штука</name>
+                                </okei>
+                                <qty>235</qty>
+                            </lotItem>
+                        </lotItems>
+                    </lot>
+                </ns2:lots>
+            </ns2:purchaseNoticeData>
+        </ns2:item>
+    </ns2:body>
+</ns2:purchaseNotice>
